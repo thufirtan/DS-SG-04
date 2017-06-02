@@ -24,7 +24,7 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 
 | Class | Title |  | Class | Title |
 | --- | :---: | --- |  --- | :---: |
-| Lesson 1 | [What is Data Science](./lessons/lesson-01/) || Lesson 11 | *Flex Session (suggestion: [Clustering](./lessons/lesson-11-flex/)) |
+| Lesson 1 | [What is Data Science](./lessons/lesson-01/) || Lesson 11 | *Flex Session [Clustering](./lessons/lesson-11-flex/) |
 | Lesson 2 | [Research Design & Pandas](./lessons/lesson-02/) || Lesson 12 | [Decision Trees / Random Forest](./lessons/lesson-12/)|
 | Lesson 3| [Statistics Fundamentals pt. 1](./lessons/lesson-03/) || Lesson 13 | [NLP with Classification](./lessons/lesson-13/) |
 | Lesson 4 | [Statistics Fundamentals pt. 2](./lessons/lesson-04/) || Lesson 14 | [Dimensionality Reduction](./lessons/lesson-14/) |
@@ -32,7 +32,7 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 | Lesson 6 | [Intro to Linear Regression](./lessons/lesson-06/) || Lesson 16 | [Modeling Time Series Data](./lessons/lesson-16/) |
 | Lesson 7 | [Evaluating Model Fit](./lessons/lesson-07/) || Lesson 17 | [Data Science Databases](./lessons/lesson-17/) |
 | Lesson 8 | [Intro to Classification](./lessons/lesson-08/)|| Lesson 18 | [Data Science Careers](./lessons/lesson-18/) |
-| Lesson 9 | [Intro to Logistic Regression](./lessons/lesson-09/) || Lesson 19 | *Flex Session (Suggestion: [Neural Networks](./lessons/lesson-19-flex/)) |
+| Lesson 9 | [Intro to Logistic Regression](./lessons/lesson-09/) || Lesson 19 | *Flex Session [Neural Networks](./lessons/lesson-19-flex/) |
 | Lesson 10 | [Communicating Model Results](./lessons/lesson-10/) ||Lesson 20 | Final Project Demo Day | 
 
 ## Project Timeline
