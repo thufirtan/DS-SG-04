@@ -1,0 +1,127 @@
+# Metadata for Certificate of Entitlement (COE) Bidding Results
+---
+Identifier: '13c53c26-75df-4136-9853-469dc18faccf'
+Name: 'coe-bidding-results'
+Title: 'Certificate of Entitlement (COE) Bidding Results'
+Description: 'There are 2 COE Open Bidding exercises in a month. The bidding exercises
+  usually start on the first Monday and third Monday of the month at 12pm and lasts
+  for 3 working days. The exercises will usually end on the Wednesday in the same
+  week at 4pm.'
+Topics:
+  - 'Transport'
+Keywords:
+  - 'COE'
+  - 'Certificate of Entitlement'
+  - 'Cost of Living'
+  - 'Motor Vehicles'
+  - 'Private Transport'
+Publisher:
+  Name: 'Land Transport Authority'
+  Admin 1:
+    Name: 'Land Transport Authority'
+    Department: 'Land Transport Authority'
+    Email: 'Datamall@LTA.gov.sg'
+Sources:
+  - 'Land Transport Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Other'
+Coverage: '2010-01-01 to 2017-06-30'
+Last Updated: '2017-06-07T10:02:33.520091'
+Resources:
+  -
+    Identifier: 'f7bbdc43-c568-4e60-9afa-b77ba5a14aa0'
+    Title: 'COE Results'
+    Url: 'https://storage.data.gov.sg/coe-bidding-results/resources/coe-results-2017-06-07T10-01-24Z.csv'
+    Format: 'CSV'
+    Coverage: '2010-01-01 to 2017-05-31'
+    Description:
+      - 'Prevailing quota premium (PQP) for existing vehicles is a moving average
+        of the QP over the last 3 months.'
+      - ''
+      - 'From Feb 2014 bidding exercise onwards, Category A will add a new engine
+        power criterion of up to 97kW to the existing engine capacity'
+      - ''
+      - '- Category A: Car up to 1600CC & 97KW'
+      - '- Category B: Car above 1600CC or 97KW'
+      - '- Category C: Goods Vehicle & Bus'
+      - '- Category D: Motorcycle'
+      - '- Category E: Open'
+    Last Updated: '2017-06-07T10:01:24.438958'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'bidding_no'
+        Title: 'Bidding No'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Bids'
+        Description: 'Number of Bids'
+      -
+        Name: 'vehicle_class'
+        Title: 'Vehicle Class'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'quota'
+        Title: 'Quota'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Quota'
+        Description: 'Number of Quota'
+      -
+        Name: 'bids_success'
+        Title: 'Bids Success'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Successful Bids'
+        Description: 'Number of Successful Bids'
+      -
+        Name: 'bids_received'
+        Title: 'Bids Received'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'No. of Bids Recieved'
+        Description: 'Number of Bids Recieved'
+      -
+        Name: 'premium'
+        Title: 'Premium'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: 'Premium'
+  -
+    Identifier: '85deb904-fbf9-46bc-80fd-9676213bbf1f'
+    Title: 'COE Results (Prevailing Quota Premium)'
+    Url: 'https://storage.data.gov.sg/coe-bidding-results/resources/coe-results-prevailing-quota-premium-2017-06-07T10-02-32Z.csv'
+    Format: 'CSV'
+    Coverage: '2010-02-01 to 2017-06-30'
+    Description:
+      - 'Prevailing quota premium (PQP) for existing vehicles is a moving average
+        of the QP over the last 3 months.'
+      - 'From Feb 2014 bidding exercise onwards, Category A will add a new engine
+        power criterion of up to 97kW to the existing engine capacity'
+    Last Updated: '2017-06-07T10:02:32.727542'
+    Schema:
+      -
+        Name: 'month'
+        Title: 'Month'
+        Type: 'datetime'
+        Sub Type: 'month'
+        Format: 'YYYY-MM'
+      -
+        Name: 'vehicle_class'
+        Title: 'Vehicle Class'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'pqp'
+        Title: 'PQP'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'S$'
+        Description: 'Premium'
