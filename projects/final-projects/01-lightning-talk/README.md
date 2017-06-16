@@ -43,8 +43,8 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
 |:-:|---|---|
 | 8 July 2017 |  Part 1 - Lightning Presentation  | Present 3 Problem Statements   |
 | 22 July 2017 | Part 2 - Experiment Writeup and EDA  |  Research Design Problem Statement & Outline, Exploratory Analysis   |
-| 29 July 2017 | Part 4 - Notebook Draft  |  iPython Notebook & Model Draft  |
-| 5 August 2017 | Part 5 - Presentation  | Present Your Final Report   |
+| 29 July 2017 | Part 3 - Notebook Draft  |  iPython Notebook & Model Draft  |
+| 5 August 2017 | Part 4 - Presentation  | Present Your Final Report   |
 
 ---
 
