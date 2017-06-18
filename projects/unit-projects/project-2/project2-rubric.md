@@ -21,7 +21,7 @@ Acceptable performance for this standard is based on how well you've applied spe
 | Create a table of descriptive statistics for each of the variables (n, mean, median, standard deviation) | | | | |
 | Describe the distributions of your data | | | | |
 | Plot box plots for each variable | | | | |
-| Create a covariance matrix | | | | |
+| Create a correlation matrix | | | | |
 | Determine any issues or limitations, based on your exploratory analysis | | | | |
 | Outline exploratory analysis methods | | | | |
 
@@ -31,7 +31,7 @@ Notes:
 ---
 
 ## Score:
-Based on the requirements, you can earn a maximum of  **21**  points on this project. 
+Based on the requirements, you can earn a maximum of  **21**  points on this project.
 
 #### Your total score is: **#**
 
@@ -44,4 +44,3 @@ Based on the requirements, you can earn a maximum of  **21**  points on this pro
 |WHAT’S GOING WELL?|STRUGGLES|DEVELOPMENT PLAN|
 |---|---|---|
 | | | |
-

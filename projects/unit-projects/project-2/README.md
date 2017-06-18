@@ -22,7 +22,7 @@ Following these steps will help you better understand your dataset.
   - Create a table of descriptive statistics for each of the variables (n, mean, median, standard deviation)
   - Describe the distributions of your data
   - Plot box plots for each variable
-  - Create a covariance matrix
+  - Create a correlation matrix
   - Determine any issues or limitations, based on your exploratory analysis
 
 - **Bonus:**
