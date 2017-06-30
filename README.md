@@ -1,7 +1,7 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Data Science
 
 Welcome to GA's Part-Time Data Science Course
-! We are building a global community of lifelong learners who are excited about using data to solve real world problems. 
+! We are building a global community of lifelong learners who are excited about using data to solve real world problems.
 
 In this 10 week part-time course, students will use Python to explore datasets, build predictive models, and communicate data driven insights. Specifically, students will:
 
@@ -33,21 +33,21 @@ General Assembly's Data Science course is made up of 20 lessons that are 3 hours
 | Lesson 7 | [Evaluating Model Fit](./lessons/lesson-07/) || Lesson 17 | [Data Science Databases](./lessons/lesson-17/) |
 | Lesson 8 | [Intro to Classification](./lessons/lesson-08/)|| Lesson 18 | [Data Science Careers](./lessons/lesson-18/) |
 | Lesson 9 | [Intro to Logistic Regression](./lessons/lesson-09/) || Lesson 19 | [Neural Networks](./lessons/lesson-19-flex/) |
-| Lesson 10 | [Communicating Model Results](./lessons/lesson-10/) ||Lesson 20 | Final Project Demo Day | 
+| Lesson 10 | [Communicating Model Results](./lessons/lesson-10/) ||Lesson 20 | Final Project Demo Day |
 
 ## Project Timeline
 
 | Project | Deadline |
 | --- | --- |
-| Project 1 | Week 2 |
-| Project 2 | Week 3 |
-| Final Project 1 | Week 4 |
+| Project 1 | Week 3 |
+| Project 2 | Week 4 |
 | Project 3 | Week 5 |
-| Project 4 | Week 6 |
-| Final Project 2 | Week  7 |
-| Final Project 3 | Week  8 |
-| Final Project 4 | Week  9 |
-| Final Project 5 | Week  10 |
+| Final Project 1 | Week 6 |
+| Project 4 | Week 7 |
+| Final Project 2 | Week  8 |
+| Final Project 3 | Week  9 |
+| Final Project 4 | Week  10 |
+
 
 ## Data Science Curriculum Repo
 
