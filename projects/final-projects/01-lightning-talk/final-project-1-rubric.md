@@ -19,7 +19,6 @@ Acceptable performance for this standard is based on how well you've applied spe
 |---|---|---|---|---|
 | Explain three potential projects | | | | |
 | Each set should include a problem statement, a hypothesis, and potential data sets | | | | |
-| Be 2-3 minutes in duration | | | | |
 | Demonstrate familiarity with the domain of the data | | | | |
 
 Notes:
@@ -27,7 +26,7 @@ Notes:
 ---
 
 ## Score:
-Based on the requirements, you can earn a maximum of  **12**  points on this project. 
+Based on the requirements, you can earn a maximum of  **12**  points on this project.
 
 #### Your total score is: **#**
 
@@ -41,4 +40,3 @@ Based on the requirements, you can earn a maximum of  **12**  points on this pro
 |HIGHLIGHTS|GROWTH OPPORTUNITIES|DEVELOPMENT PLAN|
 |---|---|---|
 | | | |
-
