@@ -28,12 +28,10 @@ You'll get the opportunity to get immediate feedback and guidance in order to he
     * Demonstrate familiarity with the domain of the data
 
 - **Bonus:**
-    - High level data points can help show the "improvement" scope that's available
     - Cite similar/previous work that will better inform your strategy that can be taken
 
 - **Submission:**
     * Present materials in class
-    * Submit presentation to instructor via email.
 
 ---
 
