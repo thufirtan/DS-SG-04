@@ -1,6 +1,6 @@
 from __future__ import print_function
 import sys
-
+import re
 import twitter
 
 if __name__ == '__main__':
@@ -11,7 +11,7 @@ if __name__ == '__main__':
     for result in results:
         # Filter to english tweets
         if result['lang'] == 'en':
-            out.write((result['text'] + "\n").encode('utf-8'))
+            out.write((re.sub( '\s+', ' ', result['text']).strip() + "\n").encode('utf-8'))
             i += 1
         # Defaulting to capturing 5000, this takes a long time...
         if i == 5000:
