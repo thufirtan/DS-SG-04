@@ -21,14 +21,12 @@ Acceptable performance for this standard is based on how well you've applied spe
 | Requirements | Incomplete (0) | Does Not Meet Expectations (1) | Meets Expectations (2) | Exceeds Expectations (3) |
 |---|---|---|---|---|
 | Well-articulated problem statement with "specific aim" and hypothesis, based on your lightning talk | | | | |
-| An outline of any potential methods and models | | | | |
 | Detailed explanation of data available | | | | |
 | Describe any outstanding questions, assumptions, risks, caveats | | | | |
 | Define your goals and criteria, explain what success looks like | | | | |
-| Demonstrate domain knowledge, including features or benchmarks from similar projects | | | | |
 | A well organized iPython notebook with code and output | | | | |
 | At least one visual for each independent variable (and any relationships) using a python visualization tool | | | | |
-| Provide insight about data set and its impact on your hypothesis | | | | |
+
 
 
 ---
